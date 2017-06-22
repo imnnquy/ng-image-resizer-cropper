@@ -1,0 +1,29 @@
+{
+  "name": "ng-image-resizer-cropper",
+  "version": "1.0.0",
+  "description": "Angular module for resizing and cropping image before uploading",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nnquy/ng-image-resizer-cropper.git"
+  },
+  "keywords": [
+    "image",
+    "crop",
+    "resize",
+    "upload"
+  ],
+  "author": "nnquy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nnquy/ng-image-resizer-cropper/issues"
+  },
+  "homepage": "https://github.com/nnquy/ng-image-resizer-cropper#readme",
+  "dependencies": {
+    "@angular/core": "^4.2.4",
+    "@angular/forms": "^4.2.4"
+  }
+}

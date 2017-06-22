@@ -1,0 +1,1 @@
+export { ImageCropperModule } from './resizer.module'
